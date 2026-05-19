@@ -1,5 +1,10 @@
 # TESTE_Git
 
+
+<img width="1017" height="553" alt="image" src="https://github.com/user-attachments/assets/5c5ac1d6-110d-47d3-8796-a213879a49eb" />
+
+
+
 PROCESSO DE CONTRIBUIÇÃO PARA O REPOSITÓRIO
 
 
